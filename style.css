@@ -1,0 +1,56 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.judul {
+    color: blue;
+    text-align: left;
+}
+
+.logo {
+    display: block;
+    width: 200px;
+    
+}
+
+h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: normal;
+}
+
+.highlight-abu {
+    background-color: rgb(192, 192, 188);
+    font-weight: normal;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    font-weight: bold;
+}
+  
+blockquote {
+    font-style: italic;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
